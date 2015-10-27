@@ -1,0 +1,18 @@
+#titulo-receta {
+    font-weight: bold;
+}
+
+.nav{
+    background-color:#F95763;
+    text-decoration:none;
+}
+
+.nav li a {
+    background-color:#F95763;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+    text-align: center;
+ 
+}

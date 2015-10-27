@@ -1,0 +1,111 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+h1 a{
+    color: black; 
+    
+}
+
+a.nounderline:link   {   
+    text-decoration:none;   
+}
+
+.jumbotron {
+    text-align: center;
+    margin-bottom: 0px;
+    background-image: url(../img/descarga.jpeg);
+    background-repeat: no-repeat;
+
+}
+
+a{
+    color: whitesmoke;
+ 
+        
+}
+.nav{
+    background-color: #96CA85;
+    font-size: 2rem;
+}
+
+.sidebar {
+    width: 20%;
+    height:460px;
+    float:left;;
+
+}
+.well {
+    width: 80%;
+    heigh: 460px;
+    float:left;
+    text-align: center;
+}
+
+.takenote-footer {
+    background: #7F807F;
+    position: relative;
+    margin: 0;
+    padding: 0.9rem 10px;
+    border-top: 0;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.5;
+    color: #747474;
+    text-align: center;
+}
+#paypal{
+    float:right;
+}
+
+.nav-tabs.nav-justified > li > a {
+  margin-right: 0;
+  border-radius: 0px 0px 0 0;
+  border-color: white;
+}
+
+ol, ul {
+     list-style: none
+}
+
+
+.nav li a:hover {
+        background-color:whitesmoke;
+        color: grey;
+        
+}
+
+.nav li ul {
+        display:none;
+        position:absolute;
+        width:100%;
+        padding: 2px;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+}
+
+.nav li:hover > ul {
+        display: list-item;
+}
+
+.nav li a {
+    background-color:#96CA85;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+    text-align: center;
+ 
+}
+
+p a:link {
+    font-size: 1em;
+    text-decoration:none; 
+    
+}
+
+#titulo-receta {
+    font-size: 2em;
+}

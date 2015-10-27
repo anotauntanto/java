@@ -1,0 +1,23 @@
+.ingredientes{
+    margin-left: 30px;
+}
+
+#Titulo{
+    font-weight: bold;
+}
+
+.nav{
+    background-color: GoldenRod ; 
+    font-size: 2rem;
+}
+			
+					
+.nav li a {
+    background-color:GoldenRod;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+    text-align: center;
+ 
+}

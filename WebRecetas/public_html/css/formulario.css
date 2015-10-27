@@ -1,0 +1,20 @@
+.nav{
+    background-color: #7BBCFF;
+    font-size: 2rem;
+}
+
+.nav li a {
+    background-color:#7BBCFF;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+    text-align: center;
+ 
+}
+
+.well {
+    width: 100%;
+    float:left;
+    text-align: justify;
+}
